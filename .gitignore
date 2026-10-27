@@ -5,3 +5,8 @@ target/
 *.iml
 .vscode/
 .env
+
+certs/
+*.p12
+*.jks
+*.crt
